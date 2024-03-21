@@ -9,5 +9,8 @@ public class Roles {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id_rol;
+
+    
+
     
 }
