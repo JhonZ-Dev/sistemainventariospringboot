@@ -10,7 +10,7 @@ public class Roles {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id_rol;
 
-    
+    private String rolname;
 
     
 }
