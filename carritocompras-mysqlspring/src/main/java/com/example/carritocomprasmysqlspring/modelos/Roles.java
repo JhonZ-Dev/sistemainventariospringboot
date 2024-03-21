@@ -11,6 +11,7 @@ public class Roles {
     private Long id_rol;
 
     private String rolname;
+    private String numberole;
 
     
 }
